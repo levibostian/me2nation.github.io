@@ -1683,8 +1683,8 @@ select[multiple].form-group-lg .form-control {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('http://me2nation.com/wp-content/themes/fonts/glyphicons-halflings-regular.eot');
-  src: url('http://me2nation.com/wp-content/themes/fonts/glyphicons-halflings-regular.eot?') format('embedded-opentype'), url('http://me2nation.com/wp-content/themes/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('http://me2nation.com/wp-content/themes/fonts/glyphicons-halflings-regular.woff') format('woff'), url('http://me2nation.com/wp-content/themes/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('http://me2nation.com/wp-content/themes/fonts/glyphicons-halflings-regular.svg') format('svg');
+  src: url('http://edit.me2nation.org/wp-content/themes/fonts/glyphicons-halflings-regular.eot');
+  src: url('http://edit.me2nation.org/wp-content/themes/fonts/glyphicons-halflings-regular.eot?') format('embedded-opentype'), url('http://edit.me2nation.org/wp-content/themes/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('http://edit.me2nation.org/wp-content/themes/fonts/glyphicons-halflings-regular.woff') format('woff'), url('http://edit.me2nation.org/wp-content/themes/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('http://edit.me2nation.org/wp-content/themes/fonts/glyphicons-halflings-regular.svg') format('svg');
 }
 .glyphicon {
   position: relative;
@@ -7053,7 +7053,6 @@ address {
   z-index: 100;
 }
 .app-screenshot {
-  background-image: url("img/app-screenshot.png");
   height: 625px;
   background-size: 257px 456px;
   background-repeat: no-repeat;
